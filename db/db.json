@@ -49,6 +49,14 @@
       "name": "Unknown",
       "sex": "Female",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehLIb1MMLpoqEKyvJ2SQlITotLWSWvC98Cg&usqp=CAU"
+    },
+    {
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "name": "Buddy",
+      "sex": "Male",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg/640px-Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "id": 3
     }
   ]
 }
