@@ -55,8 +55,24 @@
       "breed": "Golden Retriever",
       "name": "Buddy",
       "sex": "Male",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg/640px-Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "image": "https://www.animalkingdomaz.com/wp-content/uploads/golden-retriever-adult-300x225.jpg",
       "id": 3
+    },
+    {
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "name": "Fuzzy",
+      "sex": "Female",
+      "image": "https://moderncat.com/wp-content/uploads/2015/12/MaineCoon.jpg",
+      "id": 4
+    },
+    {
+      "species": "Dog",
+      "breed": "Pit Bull",
+      "name": "Unknown",
+      "sex": "Male",
+      "image": "https://www.pitbullforesthouse.com/wp-content/uploads/2022/03/blue-leda-copertina.jpg",
+      "id": 5
     }
   ]
 }
